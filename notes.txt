@@ -1,0 +1,7 @@
+Spam Filter NOTES
+
+1) trainingSet1 is bare, NOT parsed text. (NO lemma, stop-list). All emails are in the database
+
+2) trainingSet2 is lemma, stop-list parsed text. All emails are in the database.
+
+3) trainingSet3 is lemma, stop-list parsed text. 50% spam emails and 50% ham emails.

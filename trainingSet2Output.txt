@@ -1,0 +1,92 @@
+Part1
+Precision: 1.0
+Recall: 0.8892988929889298
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 30
+total emails: 2604
+
+
+Part2
+Precision: 1.0
+Recall: 0.8892988929889298
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 30
+total emails: 2604
+
+
+Part3
+Precision: 1.0
+Recall: 0.9026217228464419
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 26
+total emails: 2604
+
+
+Part4
+Precision: 1.0
+Recall: 0.9026217228464419
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 26
+total emails: 2604
+
+
+Part5
+Precision: 1.0
+Recall: 0.8832116788321168
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 242
+Number of spam emails classified as ham: 32
+total emails: 2603
+
+
+Part6
+Precision: 1.0
+Recall: 0.8892988929889298
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 30
+total emails: 2604
+
+
+Part7
+Precision: 1.0
+Recall: 0.909433962264151
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 24
+total emails: 2604
+
+
+Part8
+Precision: 1.0
+Recall: 0.9305019305019305
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 18
+total emails: 2604
+
+
+Part9
+Precision: 1.0
+Recall: 0.8892988929889298
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 241
+Number of spam emails classified as ham: 30
+total emails: 2604
+
+
+Part10
+Precision: 1.0
+Recall: 0.88
+Number of ham emails classified as spam: 0
+Number of ham emails correctly classified: 242
+Number of spam emails classified as ham: 33
+total emails: 2602
+
+
+Precision Average: 1.0
+Recall Average: 0.8965586589246802
